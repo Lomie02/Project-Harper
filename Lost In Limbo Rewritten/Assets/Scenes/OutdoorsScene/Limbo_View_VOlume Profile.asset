@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bff652df78c97c4f963064ad1f34619, type: 3}
   m_Name: ColorCurves
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   master:
     m_OverrideState: 1
     m_Value:
@@ -33,19 +33,19 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.23783784
-          value: 0.8685714
-          inSlope: Infinity
-          outSlope: Infinity
+          time: 0.16756757
+          value: 0.50285715
+          inSlope: -11.041268
+          outSlope: -11.041268
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.27027026
-          value: 0.04000002
-          inSlope: 0
-          outSlope: 0
+          time: 0.47027028
+          value: 0.5085714
+          inSlope: 1.3155555
+          outSlope: 1.3155555
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
@@ -223,10 +223,10 @@ MonoBehaviour:
   active: 1
   postExposure:
     m_OverrideState: 1
-    m_Value: 2.32
+    m_Value: 0
   contrast:
     m_OverrideState: 1
-    m_Value: -46
+    m_Value: -41
   colorFilter:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -235,7 +235,7 @@ MonoBehaviour:
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: -47
+    m_Value: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -267,7 +267,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: -0.69
+    m_Value: -0.92
   xMultiplier:
     m_OverrideState: 0
     m_Value: 1
